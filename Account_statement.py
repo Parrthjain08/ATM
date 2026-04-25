@@ -1,3 +1,4 @@
+from Variables_used import total_money,money_deposit,money_withdraw
 def Statement():
     print("Account Statement:")
     if money_withdraw > 0 or money_deposit > 0:
