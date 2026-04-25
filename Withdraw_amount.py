@@ -1,3 +1,4 @@
+from Variables_used import total_money,money_withdraw
 def Withdraw():
     global Total_money
     global money_withdraw
