@@ -1,3 +1,4 @@
+from Variables_used import total_money,money_deposit
 def Deposit():
     global Total_money
     global money_deposit
