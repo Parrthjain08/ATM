@@ -1,2 +1,3 @@
 # ATM
-This project is based on Atm system . It  helps user to deopsit , withdraw or check their current balance
+This project is based on Atm system. 
+It  helps user to deposit , withdraw or check their current balance.
